@@ -1,0 +1,3 @@
+[submodule "repos/lua-resty-http"]
+	path = repos/lua-resty-http
+	url = https://github.com/ledgetech/lua-resty-http.git
